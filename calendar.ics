@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://www.eventbrite.com.au/e/workshop-structural-variant-calling-using-long-read-data-tickets-143646989011
+DTSTART:20210323T020000Z
+DTEND:20210323T060000Z
+SUMMARY:Workshop: Structural Variant Calling using Long Read Data
+DESCRIPTION:For details, go here:\nhttps://www.eventbrite.com.au/e/workshop-structural-variant-calling-using-long-read-data-tickets-143646989011
+LOCATION:
+END:VEVENT
+END:VCALENDAR
